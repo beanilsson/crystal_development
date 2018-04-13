@@ -11,7 +11,7 @@ A portable virtual development environment.
 
 ## Build the box
 
-    $ git@github.com:beanilsson/crystal_development.git
+    $ git clone git@github.com:beanilsson/crystal_development.git
     $ cd crystal_development
     $ vagrant up
 
